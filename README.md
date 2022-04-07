@@ -1,2 +1,2 @@
-# PersonalProjects
-These are projects that I am creating on my own time for practice or just for fun.
+# TurmoilAI
+AI to play the game "Turmoil" found on steam.
